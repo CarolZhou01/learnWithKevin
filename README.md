@@ -1,37 +1,13 @@
-# My Practice With Youtube Course
-I really like using Markdown.
-I think I'll use it to format all of my documents from now on.
-Don't put tabs or spaces in front of your paragraphs.
-Keep lines left-aligned like this.
+# Introduce
 
-This is the first line.  
-And this is the second line.
+![My Photo]"C:\myDocument\my-photos\my-bio.jpg"
+- **First Name:** Carol
+- **Last Name:** Mmon
+- **Age:** 25
+- **Major:** Computer Science
 
-First line with two spaces after.  
-And the next line.
+Hello there! 👋 I'm Carol Mmon, a 25-year-old enthusiast in the world of Computer Science. I'm passionate about coding, problem-solving, and exploring the endless possibilities that technology offers. Currently, I am majoring in Computer Science, where I delve into the fascinating realms of algorithms, data structures, and software development.
 
-First line with the HTML tag after.<br>
-And the next line.
+Feel free to connect with me as we navigate the exciting journey of technology together! 🚀
 
-I just love **bold text**.
-I just love __bold text__.
-Love**is**bold
-
-- First item
-- Second item
-- Third item
-- Fourth item
-
-> #### The quarterly results look great!
->
-> - Revenue was off the chart.
-> - Profits were higher than ever.
->
->  *Everything* is going according to **plan**.
-
-> try this   
-try that  
->**bold**
->
-> that 
 

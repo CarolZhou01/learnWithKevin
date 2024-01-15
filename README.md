@@ -29,7 +29,7 @@ Love**is**bold
 >
 >  *Everything* is going according to **plan**.
 
->>>try this
->>>try that
->>**bold
+>>>try this  
+try that  
+>>**bold**
 

@@ -1,6 +1,6 @@
 # Introduce
 
-![My Photo]"https://github.com/CarolZhou01/learnWithKevin/blob/main/my-bio.jpg"
+![My Photo](https://github.com/CarolZhou01/learnWithKevin/blob/main/my-bio.jpg)
 - **First Name:** Carol
 - **Last Name:** Mmon
 - **Age:** 25

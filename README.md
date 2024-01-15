@@ -12,3 +12,13 @@ And the next line.
 
 First line with the HTML tag after.<br>
 And the next line.
+
+I just love **bold text**.
+I just love __bold text__.
+Love**is**bold
+
+- First item
+- Second item
+- Third item
+- Fourth item
+

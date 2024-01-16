@@ -1,6 +1,7 @@
 # Introduce
 
 <img src="https://github.com/CarolZhou01/learnWithKevin/blob/main/my-bio.jpg" width="200" height="200"> 
+
 - **First Name:** Carol
 - **Last Name:** Mmon
 - **Age:** 25

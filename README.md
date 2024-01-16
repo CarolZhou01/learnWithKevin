@@ -1,7 +1,7 @@
 # Introduce
 
 ![My Photo](https://github.com/CarolZhou01/learnWithKevin/blob/main/my-bio.jpg =250x250)  
-<img src="https://github.com/CarolZhou01/learnWithKevin/blob/main/my-bio.jpg"alt="my photo" width="200" height="200">
+<img src="https://github.com/CarolZhou01/learnWithKevin/blob/main/my-bio.jpg" width="100" height="100"> 
 - **First Name:** Carol
 - **Last Name:** Mmon
 - **Age:** 25
